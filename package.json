@@ -1,0 +1,25 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "cli file manager nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funfordima/node-file-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "file-manager",
+    "funfordima"
+  ],
+  "author": "Dima Litvinov <d.g.litvinov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funfordima/node-file-manager/issues"
+  },
+  "homepage": "https://github.com/funfordima/node-file-manager#readme"
+}
