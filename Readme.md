@@ -5,9 +5,9 @@
 1. Install Node.js
 2. Install NVM link: <a href="https://github.com/coreybutler/nvm-windows">Download</a>
 3. Set your NodeJs version to 16.15.0 (nvm install 16.15.0 and nvm use 16.15.0)
-4. Fork this repository: node-file-manager
-5. Clone your newly created repo: https://github.com/<%your_github_username%>/node-file-manager/
-6. Go to folder node-file-manager
+4. Fork this repository: file-manager
+5. Clone your newly created repo: https://github.com/<%your_github_username%>/file-manager/
+6. Go to folder file-manager
 7. To run file manager: npm run start -- --username=user_name
 8. Deadline: 12/06/2022
 9. Done date: 12/06/2022
